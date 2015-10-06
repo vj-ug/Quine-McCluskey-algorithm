@@ -1,3 +1,4 @@
+#  mimize a boolean function
 
 #include <iostream>
 #include <vector>
