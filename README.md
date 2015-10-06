@@ -9,4 +9,7 @@ Quine–McCluskey algorithm implementation in C, C++ and C#
 - Also gives a deterministic way to check that the minimal form of a Boolean function 
 
 To Do
--Python version
+-Python 
+
+Here is another great implementation to understand it http://frederic.carpon.perso.sfr.fr/Quine-McCluskey_(frederic_carpon_implementation).php
+
